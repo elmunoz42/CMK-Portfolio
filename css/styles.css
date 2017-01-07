@@ -25,6 +25,12 @@ h4 {
   margin-left: 0px;
   text-align: left;
 }
+.well p {
+  font-size: 1.2em;
+}
+.well li {
+  font-size: 1.2em;
+}
 em {
   font-weight: bolder;
 }
@@ -34,6 +40,7 @@ em {
 .orange em {
   color: #EE7600;
 }
+
 .purple em {
   color: darkmagenta;
 }
@@ -64,4 +71,7 @@ em {
 }
 .about-me {
   margin-top: 20px;
+}
+.blockquote {
+  font-weight: bolder;
 }
