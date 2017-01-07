@@ -1,5 +1,7 @@
 body {
-  background-image: url("file:///Users/Carlos/Desktop/Epicodus/Carlos-Munoz-Kampff-Portfolio/img/background1.jpeg");
+  background-image: url("../img/background1.jpeg");
+  /*background-image: <img src="../img/background1.jpeg">;*/
+  /*url("file:///Users/Carlos/Desktop/Epicodus/Carlos-Munoz-Kampff-Portfolio/img/background1.jpeg*/
   background-size: 1200px;
 }
 h1 {
