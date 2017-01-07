@@ -13,6 +13,7 @@
 
 * HTML
 * CSS
+* Bootstrap
 * Github
 
 ##**Legal**
