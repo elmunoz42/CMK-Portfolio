@@ -20,7 +20,7 @@ img {
 }
 h3 {
   text-align: center;
-
+  text-shadow: 2px 2px 10px grey;
 }
 h4 {
   margin-top: 20px;
@@ -33,18 +33,32 @@ h4 {
 .well li {
   font-size: 1.2em;
 }
+.red .well {
+  background-color: firebrick;
+  color: white;
+}
+
+.orange .well {
+  background-color: #EE7600;
+  color: white;
+}
+.purple .well {
+  background-color: darkmagenta;
+  color: white;
+}
 em {
-  font-weight: bolder;
+  font-weight: normal;
+  font-size: .8em;
 }
 .red em {
-  color: firebrick;
+  color: white;
 }
 .orange em {
-  color: #EE7600;
+  color: white;
 }
 
 .purple em {
-  color: darkmagenta;
+  color: white;
 }
 .title {
   margin: 0 auto;
