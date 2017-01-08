@@ -20,7 +20,7 @@ img {
 }
 h3 {
   text-align: center;
-  text-shadow: 2px 2px 10px grey;
+  text-shadow: 2px 1px 10px grey;
 }
 h4 {
   margin-top: 20px;
@@ -90,4 +90,7 @@ em {
 }
 .blockquote {
   font-weight: bolder;
+}
+@trademark li{
+  font-variant-position: super;
 }
