@@ -7,7 +7,7 @@
 
 ##**Setup**
 
-####https://elmunoz42.github.io/CMK-porfolio/
+####https://elmunoz42.github.io/CMK-Portfolio/
 ####Clone this repository
 
 ##**Technologies**
