@@ -5,9 +5,10 @@
 ##**Description**
 ####Multi-page website for portfolio with images, contact links.
 
+##**Live Page**
+####https://elmunoz42.github.io/CMK-Portfolio/
 ##**Setup**
 
-####https://elmunoz42.github.io/CMK-Portfolio/
 ####Clone this repository
 
 ##**Technologies**
