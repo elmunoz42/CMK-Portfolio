@@ -79,8 +79,8 @@ em {
 .red {
   color: firebrick;
 }
-.red h3 {
-  margin-left: 0px;
+h3 {
+  font-weight: 550;
 }
 
 .orange {
