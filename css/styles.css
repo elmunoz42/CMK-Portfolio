@@ -2,7 +2,7 @@ body {
   background-image: url("../img/background1.jpeg");
   /*background-image: <img src="../img/background1.jpeg">;*/
   /*url("file:///Users/Carlos/Desktop/Epicodus/Carlos-Munoz-Kampff-Portfolio/img/background1.jpeg*/
-  background-size: 1200px;
+  background-size: cover;;
 }
 h1 {
   font-size: 5em;
@@ -79,6 +79,10 @@ em {
 .red {
   color: firebrick;
 }
+.red h3 {
+  margin-left: 0px;
+}
+
 .orange {
   color: #EE7600;
 }
@@ -90,6 +94,9 @@ em {
 }
 .blockquote {
   font-weight: bolder;
+}
+#portfolio h4 {
+  margin-left: 40px;
 }
 @trademark li{
   font-variant-position: super;
