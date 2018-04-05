@@ -20,7 +20,8 @@ img {
 }
 h3 {
   text-align: center;
-  text-shadow: 2px 1px 10px grey;
+  text-shadow: 1px 1px 10px lightgrey;
+  font-weight: 400;
 }
 h4 {
   margin-top: 20px;
@@ -43,7 +44,20 @@ h4 {
   color: white;
 }
 .purple .well {
-  background-color: darkmagenta;
+  background-color: rgba(139, 0, 139,1);
+  color: white;
+}
+
+h3 .red-back {
+  background-color: rgba(178,34,34,1);
+  color: white;
+}
+h3 .orange-back {
+  background-color: rgba(	238, 118, 0,1);
+  color: white;
+}
+h3 .purple-back {
+  background-color: rgba(139, 0, 139,1);
   color: white;
 }
 em {
